@@ -1,6 +1,8 @@
 # 支持系统资源监测的简易shell
 
 ### 1. 结构
+```
+```
 .
 ├── Makefile
 ├── shell.c
@@ -15,4 +17,5 @@
     ├── main.c
     ├── memory.c
     └── network.c
-
+```
+```
